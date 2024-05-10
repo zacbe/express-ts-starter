@@ -44,6 +44,9 @@ Create or modify the `tsconfig.json` file:
 # Node.js type definitions
 $ npm install @types/node --save-dev
 
+# Express type definitions
+$ npm install @types/express --save-dev
+
 # Run TypeScript files directly without compilation
 $ npm install tsx --save-dev
 
